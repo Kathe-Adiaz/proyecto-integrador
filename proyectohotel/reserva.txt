@@ -1,0 +1,9 @@
+Reserva confirmada para: Sebastian Caicedo
+Tipo de habitación: Doble
+Número de personas: 2
+Desde: 20/05/2025
+Hasta: 24/05/2025
+Noches: 4
+Precio total: $400.000
+
+----------------------
